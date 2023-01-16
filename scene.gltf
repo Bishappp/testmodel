@@ -1,0 +1,390 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.4821972846984863,
+        2.218989372253418,
+        1.610029935836792
+      ],
+      "min": [
+        -1.3540948629379272,
+        -1.2938497066497803,
+        -1.610705852508545
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999944806098938,
+        0.9999704957008362,
+        0.9999849796295166
+      ],
+      "min": [
+        -0.999970555305481,
+        -0.9999704360961914,
+        -0.9999808669090271
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 333087,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.476445198059082,
+        2.2189040184020996,
+        1.5089185237884521
+      ],
+      "min": [
+        -1.611401081085205,
+        -1.3919181823730469,
+        -0.8904803991317749
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999881982803345,
+        0.9997616410255432,
+        0.9999887347221375
+      ],
+      "min": [
+        -0.9999696612358093,
+        -0.9998225569725037,
+        -0.9999845027923584
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1332348,
+      "componentType": 5125,
+      "count": 313167,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.6095798015594482,
+        2.2189040184020996,
+        1.5719445943832397
+      ],
+      "min": [
+        -1.5586005449295044,
+        -1.391829490661621,
+        -0.36080557107925415
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3931920,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999878406524658,
+        0.9999715089797974,
+        0.999977707862854
+      ],
+      "min": [
+        -0.9999989867210388,
+        -0.9997089505195618,
+        -0.9999011158943176
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2585016,
+      "componentType": 5125,
+      "count": 319494,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 63341,
+      "max": [
+        1.5920233726501465,
+        2.2189722061157227,
+        1.6111116409301758
+      ],
+      "min": [
+        -1.506697654724121,
+        -1.3908095359802246,
+        -0.24992886185646057
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5478396,
+      "componentType": 5126,
+      "count": 63341,
+      "max": [
+        0.9999990463256836,
+        0.9999897480010986,
+        0.9999998211860657
+      ],
+      "min": [
+        -0.9999961256980896,
+        -0.9999343156814575,
+        -0.9999845027923584
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3862992,
+      "componentType": 5125,
+      "count": 271446,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Andrew Mad (https://sketchfab.com/AndrewMad)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/space-fague-39c7d0f641f940dca95f4ea5948e515d",
+      "title": "Space Fague"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 4948776,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6238488,
+      "byteOffset": 4948776,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 11187264,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "DynaWax1280",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0892324470292299,
+          0.35695745920329336,
+          0.45429679832162295,
+          1.0
+        ],
+        "metallicFactor": 0.5089505984459395,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "DynaWax128_DynaWax1280_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DynaWax128_DynaWax1280_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DynaWax128_DynaWax1280_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "DynaWax128_DynaWax1280_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "0df9d28d1fb74965a30c386e4f14af71.fbx"
+    },
+    {
+      "children": [
+        3,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "name": "DynaWax128"
+    },
+    {
+      "mesh": 0,
+      "name": "DynaWax128_DynaWax1280_0"
+    },
+    {
+      "mesh": 1,
+      "name": "DynaWax128_DynaWax1280_0"
+    },
+    {
+      "mesh": 2,
+      "name": "DynaWax128_DynaWax1280_0"
+    },
+    {
+      "mesh": 3,
+      "name": "DynaWax128_DynaWax1280_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        0.02874849266079238,
+        0.9877350366075404,
+        -0.15346993721127694,
+        0.0,
+        -0.45653580106900765,
+        0.1495590256524778,
+        0.8770445599786598,
+        0.0,
+        0.8892404548332313,
+        0.0448508116290261,
+        0.45523600273287457,
+        0.0,
+        0.3093883693218231,
+        -7.897873878479004,
+        0.9907044768333435,
+        1.0
+      ],
+      "name": "ZBrushDefault"
+    },
+    {
+      "name": "Object_9"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

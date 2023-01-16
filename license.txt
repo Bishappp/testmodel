@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Fague
+* source:	https://sketchfab.com/3d-models/space-fague-39c7d0f641f940dca95f4ea5948e515d
+* author:	Andrew Mad (https://sketchfab.com/AndrewMad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Fague" (https://sketchfab.com/3d-models/space-fague-39c7d0f641f940dca95f4ea5948e515d) by Andrew Mad (https://sketchfab.com/AndrewMad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
